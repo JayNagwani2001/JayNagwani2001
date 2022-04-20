@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jay Nagwani
 - 👀 I’m interested in Data Science,Data Analysis, Machine Learning,etc 
 - 🌱 I’m currently learning ML intermediate course on Kaggle
-- 💞️ I’m looking to collaborate on Startups,Companies as a Machine Learning Engineer and Data Analyst 
+- 💞️ I’m looking to collaborate with Startups and other Companies as a Machine Learning Engineer and Data Analyst. 
 - 📫 You can reach me by email "nagwanijay111@gmail.com"
 
 <!---
