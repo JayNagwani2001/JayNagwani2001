@@ -12,7 +12,7 @@
 
 - 📈 Explore my latest projects below!
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1AIumm6-w2q4GljwzDtgil04wf6MtSoPCGfF0XGEvGzM/edit]([https://docs.google.com/document/d/1AIumm6-w2q4GljwzDtgil04wf6MtSoPCGfF0XGEvGzM/edit](https://drive.google.com/file/d/1kQKOsETEbUlbZ-wHv-I0E_b_e4L4Fqwm/view?usp=sharing))
+- 📄 Know about my experiences: [Resume]([https://drive.google.com/file/d/1kQKOsETEbUlbZ-wHv-I0E_b_e4L4Fqwm/view?usp=sharing])
 
 
 <h3 align="left">Languages and Tools:</h3>
